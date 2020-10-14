@@ -1,2 +1,9 @@
 cdk.out/
 .env/
+awscdk8s/dist/
+imports/
+__snapshots__/
+awscdk8s/help
+awscdk8s/jest.config.js
+awscdk8s/main.test.ts
+awscdk8s/tsconfig.json
